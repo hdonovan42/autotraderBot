@@ -9,16 +9,16 @@ import time
 import os
 
 # ========== CONFIGURATION ==========
-AUTOTRADER_URL = "https://www.autotrader.co.uk/car-search?sort=price-asc&postcode=SW1A2AA&radius=1500&price-from=5000&make=ford&model=focus"
+AUTOTRADER_URL = "https://www.autotrader.co.uk/car-search?advertising-location=at_cars&aggregatedTrim=GTI%20Performance&colour=Black&homeDeliveryAdverts=include&make=Volkswagen&maximum-mileage=60000&model=Golf&moreOptions=visible&postcode=ha7%202sa&quantity-of-https://www.autotrader.co.uk/car-search?advertising-location=at_cars&aggregatedTrim=GTI%20Performance&colour=Black&homeDeliveryAdverts=include&make=Volkswagen&maximum-mileage=60000&model=Golf&moreOptions=visible&postcode=ha7%202sa&quantity-of-doors=5&sort=relevance&transmission=Manual&year-from=2017"
 STATE_FILE = "seen_listings.json"
 
 # Email settings
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-SMTP_USERNAME = "your.email@gmail.com"
-SMTP_PASSWORD = "your_app_specific_password"
-EMAIL_FROM = "your.email@gmail.com"
-EMAIL_TO = "your.email@gmail.com"
+SMTP_USERNAME = "donovanh59@gmail.com"
+SMTP_PASSWORD = "shar rspm ewxw golu"
+EMAIL_FROM = "donovanh59@gmail.com"
+EMAIL_TO = "donovanh59@gmail.com"
 
 # How often to check (in minutes)
 CHECK_INTERVAL = 10
